@@ -113,6 +113,7 @@
 
 ### Table / Data Grid
 
+ - [react-tabulator](https://github.com/ngduc/react-tabulator) - React Tabulator is based on tabulator - an advanced table library with many useful features.
  - [reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React.
  - [ag-grid](https://github.com/ceolter/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
  - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React.
